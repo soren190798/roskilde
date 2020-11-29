@@ -6,6 +6,8 @@ public class Child {
     private String address;
     private String phoneNumber;
 
+    //hejhej
+
     public void fillInChildInformation(String name, String parentsName, String cpr, String address, String phoneNumber){
         this.name = name;
         this.parentsName =parentsName;
